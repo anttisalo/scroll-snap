@@ -1,0 +1,14 @@
+{
+  "name": "scroll-snap-test",
+  "version": "1.0.0",
+  "description": "Learning scroll snap",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
